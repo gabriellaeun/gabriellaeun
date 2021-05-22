@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabriellaeun
 - 👀 I’m interested in Deep Learning, 3D CAD modeling, Unity
 - 🌱 I’m currently learning python, C#, JAVA, C, C++
-- 💞️ I’m looking to collaborate on deep learning project or study
+- 💞️ I’m looking to collaborate on unity project, deep learning project or study
 - 📫 How to reach me : chohyunun@naver.com
 
 <!---
