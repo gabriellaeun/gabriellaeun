@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabriellaeun
-- 👀 I’m interested in UI, Deep Learning, 3D modeling, Unity Programming
-- 🌱 I’m currently learning python, C#, JAVA, C, C++
+- 👀 I’m interested in UI Design and Implementation, Deep Learning, 3D modeling, Unity Programming
+- 🌱 I’m currently learning Python, C#, JAVA, C, C++
 - 💞️ I’m looking to collaborate on unity project, deep learning project
 - 📫 How to reach me : chohyunun@cleardentlab.com
 
